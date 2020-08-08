@@ -59,6 +59,7 @@
   * [മണ്ണ് സംരക്ഷണ വകുപ്പ്](undefined-3/undefined-9.md)
   * [ദേവസ്വം](undefined-3/undefined-10.md)
   * [മൃഗസംരക്ഷണ വകുപ്പ്](undefined-3/undefined-11.md)
+  * [സിവില്‍ സപ്ലൈസ്‌ വകുപ്പ്](undefined-3/undefined-12.md)
 * [ഉപസംഹാരം](undefined-4.md)
 
 ## അനുബന്ധങ്ങള്‍ <a id="annextures"></a>
