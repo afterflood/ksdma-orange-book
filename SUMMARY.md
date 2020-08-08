@@ -74,6 +74,7 @@
   * [വിവര-പൊതുജന സമ്പര്‍ക്ക വകുപ്പ്](undefined-3/undefined-23.md)
   * [ഗതാഗത വകുപ്പ്](undefined-3/undefined-24.md)
   * [എക്സൈസ്](undefined-3/undefined-25.md)
+  * [പൊതുമരാമത്ത് വകുപ്പ്](undefined-3/undefined-26.md)
 * [ഉപസംഹാരം](undefined-4.md)
 
 ## അനുബന്ധങ്ങള്‍ <a id="annextures"></a>
