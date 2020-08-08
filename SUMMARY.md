@@ -61,6 +61,7 @@
   * [മൃഗസംരക്ഷണ വകുപ്പ്](undefined-3/undefined-11.md)
   * [സിവില്‍ സപ്ലൈസ്‌ വകുപ്പ്](undefined-3/undefined-12.md)
   * [കൃഷി വകുപ്പ്](undefined-3/undefined-13.md)
+  * [കെ.എസ്.ആര്‍.റ്റി.സി](undefined-3/.-.-.-..md)
 * [ഉപസംഹാരം](undefined-4.md)
 
 ## അനുബന്ധങ്ങള്‍ <a id="annextures"></a>
