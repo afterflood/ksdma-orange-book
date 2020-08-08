@@ -42,7 +42,16 @@
   * [സന്നദ്ധം volunteerമാരുടെ ഉപയോഗം](undefined-1/volunteer.md)
   * [സന്നദ്ധ സംഘടനകളുടെ ഔദ്യോഗിക കൂട്ടായ്മകള്‍ \(Inter Agency Group\)](undefined-1/inter-agency-group.md)
   * [ദുരന്തത്തില്‍ വന്നടിയുന്ന Debris മാറ്റുന്നത്തിനുള്ള മാര്‍ഗ്ഗരേഖ](undefined-1/debris.md)
-* [വിവിധ വകുപ്പുകള്‍ക്കുള്ള നിര്‍ദ്ദേശങ്ങള്‍](undefined-3.md)
+* [വിവിധ വകുപ്പുകള്‍ക്കുള്ള നിര്‍ദ്ദേശങ്ങള്‍](undefined-3/README.md)
+  * [പൊതു നിര്‍ദ്ദേശങ്ങള്‍ - സംസ്ഥാന തലം](undefined-3/undefined.md)
+  * [പൊതു നിര്‍ദ്ദേശങ്ങള്‍ - ജില്ലാ തലം](undefined-3/undefined-1.md)
+  * [ലാന്‍ഡ്‌ റവന്യു](undefined-3/undefined-2.md)
+  * [തദ്ദേശ സ്വയംഭരണ സര്‍ക്കാരുകള്‍](undefined-3/undefined-3/README.md)
+    * [ദുരന്താനന്തര മാലിന്യ നിര്‍മ്മാര്‍ജനം](undefined-3/undefined-3/undefined.md)
+  * [പോലീസ്](undefined-3/undefined-4.md)
+  * [അഗ്നി സുരക്ഷാ വകുപ്പ്](undefined-3/undefined-5.md)
+  * [ആരോഗ്യ വകുപ്പ്](undefined-3/undefined-6.md)
+  * [Untitled](undefined-3/untitled.md)
 * [ഉപസംഹാരം](undefined-4.md)
 
 ## അനുബന്ധങ്ങള്‍ <a id="annextures"></a>
