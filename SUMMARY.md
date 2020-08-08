@@ -69,6 +69,8 @@
   * [ടൂറിസം വകുപ്പ്](undefined-3/undefined-18.md)
   * [വനം വകുപ്പ്](undefined-3/undefined-19.md)
   * [പട്ടികജാതി/പട്ടികവര്‍ഗ്ഗ വികസന വകുപ്പ്](undefined-3/undefined-20.md)
+  * [സാമൂഹിക നീതി വകുപ്പ്](undefined-3/undefined-21.md)
+  * [വനിതാ-ശിശുക്ഷേമ വകുപ്പ്](undefined-3/undefined-22.md)
 * [ഉപസംഹാരം](undefined-4.md)
 
 ## അനുബന്ധങ്ങള്‍ <a id="annextures"></a>
