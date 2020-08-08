@@ -54,6 +54,7 @@
   * [ജലസേചന വകുപ്പ്](undefined-3/untitled.md)
   * [കെ.എസ്.ഇ.ബി](undefined-3/.-.-..md)
   * [കേരള വാട്ടർ അതോറിറ്റി](undefined-3/undefined-5-1.md)
+  * [ഫിഷറീസ് വകുപ്പ്](undefined-3/undefined-7.md)
 * [ഉപസംഹാരം](undefined-4.md)
 
 ## അനുബന്ധങ്ങള്‍ <a id="annextures"></a>
