@@ -56,6 +56,7 @@
   * [കേരള വാട്ടർ അതോറിറ്റി](undefined-3/undefined-5-1.md)
   * [ഫിഷറീസ് വകുപ്പ്](undefined-3/undefined-7.md)
   * [മൈനിംഗ് ആന്‍ഡ്‌ ജിയോളജി വകുപ്പ്](undefined-3/undefined-8.md)
+  * [മണ്ണ് സംരക്ഷണ വകുപ്പ്](undefined-3/undefined-9.md)
 * [ഉപസംഹാരം](undefined-4.md)
 
 ## അനുബന്ധങ്ങള്‍ <a id="annextures"></a>
