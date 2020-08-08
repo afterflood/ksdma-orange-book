@@ -64,6 +64,10 @@
   * [കെ.എസ്.ആര്‍.റ്റി.സി](undefined-3/.-.-.-..md)
   * [ജലഗതാഗത വകുപ്പ്](undefined-3/undefined-14.md)
   * [വിദ്യാഭ്യാസ വകുപ്പ്](undefined-3/undefined-15.md)
+  * [കേരള സ്റ്റേറ്റ് റോഡ് സേഫ്റ്റി അതോറിറ്റി](undefined-3/undefined-16.md)
+  * [കേരള ഡാം സേഫ്റ്റി അതോറിറ്റി](undefined-3/undefined-17.md)
+  * [ടൂറിസം വകുപ്പ്](undefined-3/undefined-18.md)
+  * [വനം വകുപ്പ്](undefined-3/undefined-19.md)
 * [ഉപസംഹാരം](undefined-4.md)
 
 ## അനുബന്ധങ്ങള്‍ <a id="annextures"></a>
